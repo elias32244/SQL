@@ -1,7 +1,4 @@
--- Solução das Atividades 01, 02 e 03 (arquivo único)
--- Arquivo: atividades_1_2_3.sql
--- Contém: exe01 (Game Online), exe02 (Pizzaria), exe03 (Farmácia)
--- Autor: Gerado pelo assistente a partir do arquivo enviado pelo usuário
+
 
 /*******************************
  * EXE01 - db_generation_game_online
